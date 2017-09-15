@@ -7,7 +7,7 @@ Right now Theme supports PHP, Blade, and Twig.
 
 ### Installation
 
-- [Theme on Packagist](https://packagist.org/packages/arinstar/theme)
+- [Theme on Packagist](https://packagist.org/packages/arinstar/laravel-theme)
 - [Theme on GitHub](https://github.com/arinstar/laravel-theme)
 
 To get the latest version of Theme simply require it in your `composer.json` file.

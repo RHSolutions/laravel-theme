@@ -7,12 +7,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Teepluss",
-            "email": "admin@laravel.in.th"
-        },
-        {
             "name": "Arinstar",
             "email": "whirox@gmail.com"
+        },
+        {
+            "name": "Teepluss",
+            "email": "admin@laravel.in.th"
         }
     ],
     "require": {
