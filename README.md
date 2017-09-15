@@ -1,19 +1,19 @@
 ## Theme Management for Laravel
 
-### For Laravel 4, please use the [v1.x branch](https://github.com/Arinstar/laravel-theme/tree/v1.x)!
+### For Laravel 4, please use the [v1.x branch](https://github.com/arinstar/laravel-theme/tree/v1.x)!
 
 Theme is a theme management for Laravel 5, it is the easiest way to organize your skins, layouts and assets.
 Right now Theme supports PHP, Blade, and Twig.
 
 ### Installation
 
-- [Theme on Packagist](https://packagist.org/packages/Arinstar/theme)
-- [Theme on GitHub](https://github.com/Arinstar/laravel-theme)
+- [Theme on Packagist](https://packagist.org/packages/arinstar/theme)
+- [Theme on GitHub](https://github.com/arinstar/laravel-theme)
 
 To get the latest version of Theme simply require it in your `composer.json` file.
 
 ~~~
-"Arinstar/theme": "^2.0"
+"arinstar/theme": "^2.0"
 ~~~
 
 You'll then need to run `composer install` to download it and have the autoloader updated.
@@ -639,7 +639,7 @@ public function getIndex()
 
 ## Support or Contact
 
-If you have any problems, Contact Arinstar@gmail.com
+If you have any problems, Contact whirox@gmail.com
 
 
 [![Support via PayPal](https://rawgithub.com/chris---/Donation-Badges/master/paypal.jpeg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9GEC8J7FAG6JA)
