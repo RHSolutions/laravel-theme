@@ -13,10 +13,16 @@ Right now Theme supports PHP, Blade, and Twig.
 To get the latest version of Theme simply require it in your `composer.json` file.
 
 ~~~
-"arinstar/theme": "^2.0"
+"arinstar/laravel-theme": "^2.0"
 ~~~
 
 You'll then need to run `composer install` to download it and have the autoloader updated.
+
+Alternatively, you can use :
+
+~~~
+composer require arinstar/laravel-theme
+~~~
 
 Once Theme is installed you need to register the service provider with the application. Open up `config/app.php` and find the `providers` key.
 
@@ -640,6 +646,3 @@ public function getIndex()
 ## Support or Contact
 
 If you have any problems, Contact whirox@gmail.com
-
-
-[![Support via PayPal](https://rawgithub.com/chris---/Donation-Badges/master/paypal.jpeg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9GEC8J7FAG6JA)
