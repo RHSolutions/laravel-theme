@@ -1,4 +1,4 @@
-<?php namespace Teepluss\Theme\Contracts;
+<?php namespace Arinstar\Theme\Contracts;
 
 interface Theme {
 

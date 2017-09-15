@@ -1,15 +1,19 @@
 {
-    "name": "teepluss/theme",
+    "name": "arinstar/laravel-theme",
     "description": "Theme will help you organize your themes inside Laravel projects easily and maintain its related assets, layouts and partials for the theme in single directory.",
     "keywords": ["laravel", "theme", "layout", "asset", "widget", "twig"],
-    "homepage": "https://github.com/teepluss/laravel-theme",
+    "homepage": "https://github.com/arinstar/laravel-theme",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Teepluss",
             "email": "admin@laravel.in.th"
-        }
+        },
+        {
+            "name": "Arinstar",
+            "email": "whirox@gmail.com"
+        },
     ],
     "require": {
         "php": ">=5.4.0",
@@ -20,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Teepluss\\Theme\\": "src/"
+            "Arinstar\\Theme\\": "src/"
         },
         "classmap": [
             "src/Exceptions.php"

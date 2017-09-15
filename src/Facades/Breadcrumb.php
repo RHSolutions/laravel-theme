@@ -1,4 +1,4 @@
-<?php namespace Teepluss\Theme\Facades;
+<?php namespace Arinstar\Theme\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
